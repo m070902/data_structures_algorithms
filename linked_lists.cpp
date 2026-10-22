@@ -131,7 +131,6 @@ class linked_list{
 
 
 int main(){
-
     linked_list prueba;
 
     prueba.add_end(4);
